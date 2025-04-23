@@ -1,0 +1,40 @@
+body {
+    background-color: #eb9f9f;
+    font-family: Arial, sans-serif;
+}
+
+#p1 {
+    color: #800000;
+    text-align: center;
+    font-size: 30px;
+    background-color: #ffe5e5;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#p2 {
+    color: #47057c;
+    text-align: center;
+    font-size: 24px;
+    background-color: #e0d4f7;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#p3 {
+    color: #00008B;
+    text-align: center;
+    font-size: 24px;
+    background-color: #d1e0ff;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#marca {
+    color: #FF00FF;
+    text-align: center;
+    font-size: 24px;
+    background-color: #fcd9ff;
+    padding: 10px;
+    border-radius: 8px;
+}
