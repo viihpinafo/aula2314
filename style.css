@@ -1,11 +1,11 @@
 body {
-    background-color: #f0f0f0; /* Fundo claro para começar */
-    font-family: Arial, sans-serif; /* Escolha uma fonte simples */
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif; 
   }
   
   h1, h2, h3, h4 {
-    text-align: center; /* Centralizar os títulos */
-    color: #333; /* Cor neutra */
+    text-align: center; 
+    color: #333;
   }
   
   #p1 {
