@@ -1,40 +1,52 @@
 body {
-    background-color: #eb9f9f;
-    font-family: Arial, sans-serif;
-}
-
-#p1 {
+    background-color: #f0f0f0; /* Fundo claro para começar */
+    font-family: Arial, sans-serif; /* Escolha uma fonte simples */
+  }
+  
+  h1, h2, h3, h4 {
+    text-align: center; /* Centralizar os títulos */
+    color: #333; /* Cor neutra */
+  }
+  
+  #p1 {
     color: #800000;
-    text-align: center;
-    font-size: 30px;
     background-color: #ffe5e5;
     padding: 10px;
-    border-radius: 8px;
-}
-
-#p2 {
+    border-radius: 5px;
+  }
+  
+  #p2 {
+    color: #005f5f;
+    background-color: #d8f3f3;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #p3 {
     color: #47057c;
-    text-align: center;
-    font-size: 24px;
     background-color: #e0d4f7;
     padding: 10px;
-    border-radius: 8px;
-}
-
-#p3 {
-    color: #00008B;
-    text-align: center;
-    font-size: 24px;
+    border-radius: 5px;
+  }
+  
+  #p4 {
+    color: #8b4513;
+    background-color: #f5e5d9;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #p5 {
+    color: #228b22;
+    background-color: #d9f5e5;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #p6 {
+    color: #00008b;
     background-color: #d1e0ff;
     padding: 10px;
-    border-radius: 8px;
-}
-
-#marca {
-    color: #FF00FF;
-    text-align: center;
-    font-size: 24px;
-    background-color: #fcd9ff;
-    padding: 10px;
-    border-radius: 8px;
-}
+    border-radius: 5px;
+  }
+  
